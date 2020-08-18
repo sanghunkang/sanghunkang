@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- Tax payer (at least for now)
+- Grass planter
+- Home cook
+
 <!--
 **sanghunkang/sanghunkang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
